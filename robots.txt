@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morningstackburger.netlify.app/sitemap.xml
