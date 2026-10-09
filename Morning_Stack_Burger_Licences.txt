@@ -1,5 +1,5 @@
-Image Title: burger with lettuce and tomato on white ceramic plate
-Photographer: S O C I A L . C U T
+Image Title:Person-holding-Breakfast-burger
+ Photographer: S O C I A L . C U T
 Unsplash Username: @socialcut
 Source: Unsplash
 Photo ID: UD57QdzIj_8
@@ -8,11 +8,13 @@ Camera: Canon EOS 5D Mark IV
 Location: Caffe Etto, Wickham Street, Fortitude Valley, Queensland, Australia
 License: Unsplash License
 Used On: Morning Stack Burger website — Built for Better Mornings section
-Alt Text: Person holding a breakfast burger with egg, avocado, and sauce.
+Alt Text: Hands holding a breakfast burger with egg, avacado, cheese and pickles up close.
 Exact Image: Original Unsplash photo
 License Information: Unsplash License 
 Unsplash confirms the photographer, title, photo ID, publication date, camera and location for this image. Unsplash
-Image Title: cheese bacon hamburger
+
+
+Image Title: Main-breakfast-burger
 Photographer: amirali mirhashemian
 Unsplash Username: @amir_v_ali
 Source: Unsplash
@@ -22,12 +24,12 @@ Camera: Sony ILCE-6300
 Location: Not listed
 License: Unsplash License
 Used On: Morning Stack Burger website — Home page banner
-Alt Text: Breakfast burger with fried egg, bacon, tomato, slaw, and sauce on a pretzel bun.
+Alt Text: Breakfast burger with egg, cheese, bacon, and toppings.
 Exact Image: Original Unsplash photo
 License Information: Unsplash License 
 
-Image Title: Two hamburgers with cheese and egg on white ceramic plate
-Photographer: Pavel Subbotin
+Image Title:Breakfast-spread-ingredients
+ Photographer: Pavel Subbotin
 Unsplash Username: @nitob
 Source: Unsplash
 Photo ID: OcyGjH2k8Yw
@@ -35,11 +37,11 @@ Published: December 2, 2020
 Camera: Not listed
 License: Unsplash License
 Used On: Morning Stack Burger website — Discover the Breakfast Burger section
-Alt Text: Breakfast burger ingredients arranged on a wooden board, including seeded buns, cheese, a sausage patty, and a fried egg.
+Alt Text: Fresh breakfast ingredients including tomatoes, mushrooms, egg and grilled bacon.
 Exact Image: Open the original Unsplash photo
 License Information: Unsplash License
 
-Image Title: A breakfast sandwich with a fried egg and bacon on a toasted bun
+Image Title: Breakfast-burger-on-plate-on-wooden-table
 Photographer: Seb Reivers
 Unsplash Username: @sebbiepie
 Source: Unsplash
@@ -49,11 +51,11 @@ Camera: FUJIFILM X-T4
 Location: Coburg, Victoria, Australia
 License: Unsplash License
 Used On: Morning Stack Burger website — Stacked to Satisfy section
-Alt Text: Breakfast burger with a fried egg, bacon, caramelized onions, and sauce on a toasted brioche bun.
+Alt Text: Breakfast sandwich with a fried egg on a toasted bun.
 Exact Image: Original Unsplash photo
 License Information: Unsplash License
 
-Image Title: fried ham, egg, bread with beans and red tomato slice
+Image Title: Breakfastburger-on-plate-with-sausage
 Photographer: Jonathan Farber
 Unsplash Username: @farber
 Source: Unsplash
@@ -63,10 +65,12 @@ Camera: Canon EOS 5D Mark III
 Location: Knutsford, United Kingdom
 License: Unsplash License
 Used On: Morning Stack Burger website — What Is a Breakfast Burger? section
-Alt Text: Top-down full English breakfast with fried eggs, bacon, sausages, baked beans, mushrooms, tomato, hash brown, and black pudding.
+Alt Text: Breakfast plate with eggs, bacon, sausage, beans and toast.
 Exact Image: Original Unsplash photo
 License Information: Unsplash License
-Image Title: bread with egg and fries on plate
+
+
+Image Title:Breakfast-sandwich-with-fries
 Photographer: Roni Herdyanzah
 Unsplash Username: @roniherdyanzah
 Source: Unsplash
@@ -76,7 +80,7 @@ Camera: Canon EOS 60D
 Location: Not listed
 License: Unsplash License
 Used On: Morning Stack Burger website — A Bite of Breakfast Burger History section
-Alt Text: Breakfast sandwich topped with a fried egg and served with French fries on a rectangular plate.
+Alt Text: Open breakfast sandwich topped with a fried egg and served with fries.
 Exact Image: Original Unsplash photo
 License Information: Unsplash License
 
